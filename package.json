@@ -6,7 +6,8 @@
     "current": "./date.js",
     "number_puzzle": "./number_puzzle.js",
     "eagle_and_tails": "./eagle_and_tails.js",
-    "eagle_and_tails_parser": "./eagle_and_tails_parser.js"
+    "eagle_and_tails_parser": "./eagle_and_tails_parser.js",
+    "weather": "./weather.js"
   },
   "repository": "https://github.com/sorgal/study-cmd-date.git",
   "license": "MIT",
